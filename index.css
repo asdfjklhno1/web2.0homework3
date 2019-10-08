@@ -1,3 +1,4 @@
+/* 初始渲染有瑕疵  后续使用js延时显示 */
 #bottom-positioner{
     position: absolute;
     bottom: 20%;
@@ -55,9 +56,9 @@ li span{
 .comment{
     position: relative;
     top: -10px;
-    left: -10px;
+    left: -5px;
     font-size: 2.5em;
-    font-weight: 570;
+    font-weight: 600;
     color: white;
 }
 .comment img{
